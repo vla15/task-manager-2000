@@ -1,0 +1,7 @@
+.card-box {
+  display: flex;
+  justify-content: space-between;
+}
+.card-text {
+  flex: 1;
+}
